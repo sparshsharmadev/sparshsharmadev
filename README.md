@@ -1,34 +1,55 @@
 # Sparsh Sharma
 
-**17yo AI/ML Engineer & Full-Stack Developer** based in Bangalore, India.  
-Architecting intelligent systems and bending the void between what exists and what is possible.
+I build software by getting curious about what happens beneath the interface: how data moves, how a system behaves when conditions change, and where a small design decision can make the whole thing easier to use.
 
-<a href="https://sparshsharma-dev.xyz">Portfolio</a> • <a href="https://linkedin.com/in/sparshsharmadev">LinkedIn</a> • <a href="https://dev.to/sparshsharmadev">Dev.to</a> • <a href="https://medium.com/@sparshsharmadev">Medium</a>
+**Software engineering · web and mobile · applied AI**
 
----
-
-### 💻 Core Projects
-
-* 🧠 **[Manshverse AI](https://manshverse.site)**: A poly-model intent routing ecosystem. Dynamically routes prompts to `llama-3.3-70b` (Groq) or `qwen3-32b`. Built a custom rolling context buffer in Firebase to maintain character consistency for 45+ historical personas.
-* 🛰️ **[OrbitVoyage](https://orbitvoyage.vercel.app)**: Real-time SGP4 satellite ops dashboard. Tracks 250+ active orbital objects with Kalman-filtered telemetry and a custom 3D WebGL globe.
-* 🗣️ **[Lexivoid](https://lexivoid.vercel.app)**: Computational linguistics engine. Synthesizes words for unnamed human experiences across 7,000+ languages using a custom phoneme generator with vowel harmony.
-* ⚡ **[Conduit](https://github.com/sparshsharmadev/conduit)**: Encrypted real-time messaging Android application. Socket-based with sub-50ms delivery and persistent conversations.
+[Portfolio](https://sparshsharma-dev.xyz) · [LinkedIn](https://www.linkedin.com/in/sparshsharmadev/) · [Email](mailto:sparshsharmadev@gmail.com)
 
 ---
 
-### 🛠 Technical Arsenal
+## Selected work
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,pytorch,firebase,postgres,docker,linux,vite,html,css&perline=12" />
-</a>
+### [Manshverse](https://manshverse.site) · [Web](https://github.com/sparshsharmadev/manshverse-web) · [Android](https://github.com/sparshsharmadev/manshverse-app)
+An AI chat product for web and Android. I work across the product, from its React and React Native interfaces to its Firebase-backed services. Its model router uses the prompt's intent to choose a suitable model, while personas shape the conversational experience.
+
+### [Polaris](https://github.com/sparshsharmadev/polaris) · Smart India Hackathon 2026
+With **Dev React**, I led a team building an early prototype for polar expedition operations. Polaris focuses on planning and tracking supplies for research stations, including offline-first use in remote environments.
+
+### [Lexivoid](https://lexivoid.vercel.app) · [Source](https://github.com/sparshsharmadev/Lexivoid)
+A language-focused experiment about the words we wish existed. Lexivoid helps people explore and create names for ideas or feelings that are difficult to describe.
+
+### [Conduit](https://github.com/sparshsharmadev/Conduit)
+A real-time chat app built with React Native and a Node.js backend. The project explores messaging flows, live updates, and how the client and server coordinate.
+
+### [MilkDream](https://github.com/sparshsharmadev/milkdream)
+A small creative project built around the way memories collect, blur, and change over time.
+
+### [bits&bytes](https://github.com/sparshsharmadev/bitsnbytes)
+I help lead a fork of bits&bytes, a student developer community centered on meeting, learning together, and making things.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sparshsharmadev&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C5CFC&icon_color=67E8F9" align="right" height="150" />
+## Tools I work with
 
-### 📈 Telemetry & Identity
+- **Languages:** JavaScript, TypeScript, Python
+- **Web and mobile:** React, React Native, Expo, Vite, HTML, CSS
+- **Backend and data:** Node.js, Express, Firebase, PostgreSQL, MongoDB, Prisma
+- **AI and machine learning:** LLM integrations, prompt and model routing, PyTorch
+- **Workflow:** Git, GitHub, Linux, Vercel
 
-- **Status:** Co-Lead at bits&bytes Bangalore
-- **Focus:** Transformer Architectures, WebGL, Real-time Systems
-- **Knowledge Graph Entity:** [Q140774715](https://www.wikidata.org/wiki/Q140774715)
-- **Contact:** sparshsharmadev@gmail.com
+I choose tools to fit the problem and keep learning beyond this list; it is a snapshot of what I have used, not a claim to know every part equally well.
+
+---
+
+## What I’m interested in
+
+Software that stays understandable as it grows: thoughtful interfaces, dependable data flows, offline-capable systems, and useful applications of machine learning. I like following a question past the obvious answer, testing the assumptions, and making the result work in practice.
+
+## Find me
+
+- [Portfolio](https://sparshsharma-dev.xyz)
+- [LinkedIn](https://www.linkedin.com/in/sparshsharmadev/)
+- [GitHub](https://github.com/sparshsharmadev)
+- [Email](mailto:sparshsharmadev@gmail.com)
+
