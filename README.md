@@ -18,7 +18,7 @@ I'm **Sparsh Sharma**, a B.Tech Computer Science student at SAREC, Mirzapur, fro
 
 ## Manshverse: one chat app that chooses its own model
 
-I started Manshverse in 2025 and built it alone. It's a chat app for **web and Android** where you pick an AI model, or talk to a character persona. Behind it sit Groq, Gemini and Mistral, with routing based on what you ask.
+I started Manshverse in march 2026 and built it alone. It's a chat app for **web and Android** where you pick an AI model, or talk to a character persona. Behind it sit Groq, Gemini and Mistral, with routing based on what you ask.
 
 It ships with UPI subscriptions, an admin dashboard and an Android APK, so it's a real product with real plumbing, not a demo.
 
@@ -67,7 +67,7 @@ It ships with UPI subscriptions, an admin dashboard and an Android APK, so it's 
 
 ## Community
 
-Since 2025 I've co-led **bits&bytes Bengaluru**, a developer community that runs meetups, hackathons and technical sessions. I built and maintain [its website](https://bangalore.gobitsnbytes.org).
+Since early 2026 I've co-led **bits&bytes Bengaluru**, a developer community that runs meetups, hackathons and technical sessions. I built and maintain [its website](https://bangalore.gobitsnbytes.org).
 
 <br>
 
