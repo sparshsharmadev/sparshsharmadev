@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="Sparsh Sharma. Software developer, founder of Manshverse." width="100%">
+<img src="./banner.svg" alt="Sparsh Sharma. Software developer, founder of Manshverse." width="100%">
 
 <br>
 
