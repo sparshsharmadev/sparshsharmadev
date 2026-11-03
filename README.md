@@ -85,8 +85,11 @@ Since early 2026 I've co-led **bits&bytes Bengaluru**, a developer community tha
 ## The toolbox
 
 **Interfaces:** HTML, CSS, JavaScript, TypeScript, React, React Native, Expo, Next.js
+
 **Servers and data:** Node.js, Express, Firebase, PostgreSQL, MongoDB, Prisma, REST APIs
+
 **AI work:** Groq, Gemini and Mistral APIs, plus PyTorch for independent study
+
 **Shipping:** Git, GitHub, Vercel
 
 ## Say hello
